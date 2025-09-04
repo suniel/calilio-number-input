@@ -129,6 +129,7 @@
   padding: 0;
   width: 100%;
   max-height: 320px;
+  max-height: 800px;
   overflow-y: scroll;
   border-radius: 8px;
   top: 52px;
@@ -139,6 +140,7 @@
   font-weight: 500;
   padding: 6px;
   border: 1px solid #ececec;
+  transition: all 0.3s ease;
 }
 .react-tel-input .country-list .flag {
   display: inline-block;
@@ -154,6 +156,7 @@
   align-items: center;
   margin-bottom: 2px;
   border-radius: 6px;
+  transition: all 0.3s ease;
 }
 .react-tel-input .country-list .country .dial-code {
   order: 0;
@@ -258,7 +261,7 @@
   background-position: -447px 0;
 }
 .react-tel-input .ba {
-  background-position: -0 0;
+  background-position: -327px -31px;
 }
 .react-tel-input .bb {
   background-position: -46px -31px;
@@ -267,145 +270,145 @@
   background-position: -3px -31px;
 }
 .react-tel-input .be {
-  background-position: -32px -11px;
+  background-position: -126px -31px;
 }
 .react-tel-input .bf {
-  background-position: -48px -11px;
+  background-position: -6px -61px;
 }
 .react-tel-input .bg {
-  background-position: -64px -11px;
+  background-position: -528px -31px;
 }
 .react-tel-input .bh {
   background-position: -520px 0;
 }
 .react-tel-input .bi {
-  background-position: -96px -11px;
+  background-position: -46px -61px;
 }
 .react-tel-input .bj {
-  background-position: -112px -11px;
+  background-position: -203px -31px;
 }
 .react-tel-input .bm {
-  background-position: -128px -11px;
+  background-position: -128px -31px;
 }
 .react-tel-input .bn {
-  background-position: -144px -11px;
+  background-position: -486px -31px;
 }
 .react-tel-input .bo {
-  background-position: -160px -11px;
+  background-position: -286px -31px;
 }
 .react-tel-input .br {
-  background-position: -176px -11px;
+  background-position: -406px -31px;
 }
 .react-tel-input .bs {
   background-position: -481px 0;
 }
 .react-tel-input .bt {
-  background-position: -208px -11px;
+  background-position: -249px -31px;
 }
 .react-tel-input .bw {
-  background-position: -224px -11px;
+  background-position: -362px -31px;
 }
 .react-tel-input .by {
-  background-position: -240px -11px;
+  background-position: -81px -31px;
 }
 .react-tel-input .bz {
-  background-position: 0 -22px;
+  background-position: -166 -31px;
 }
 .react-tel-input .ca {
-  background-position: -16px -22px;
+  background-position: -166px -61px;
 }
 .react-tel-input .cd {
-  background-position: -32px -22px;
+  background-position: -521px -61px;
 }
 .react-tel-input .cf {
-  background-position: -48px -22px;
+  background-position: -287px -61px;
 }
 .react-tel-input .cg {
-  background-position: -64px -22px;
+  background-position: -6px -91px;
 }
 .react-tel-input .ch {
-  background-position: -80px -22px;
+  background-position: -80px -61px;
 }
 .react-tel-input .ci {
-  background-position: -96px -22px;
+  background-position: -86px -91px;
 }
 .react-tel-input .ck {
-  background-position: -112px -22px;
+  background-position: -112px -61px;
 }
 .react-tel-input .cl {
-  background-position: -128px -22px;
+  background-position: -361px -61px;
 }
 .react-tel-input .cm {
-  background-position: -144px -22px;
+  background-position: -126px -61px;
 }
 .react-tel-input .cn {
-  background-position: -160px -22px;
+  background-position: -401px -61px;
 }
 .react-tel-input .co {
-  background-position: -176px -22px;
+  background-position: -446px -61px;
 }
 .react-tel-input .cr {
-  background-position: -192px -22px;
+  background-position: -48px -91px;
 }
 .react-tel-input .cu {
-  background-position: -208px -22px;
+  background-position: -161px -91px;
 }
 .react-tel-input .cv {
-  background-position: -224px -22px;
+  background-position: -200px -61px;
 }
 .react-tel-input .cw {
-  background-position: -240px -22px;
+  background-position: -202px -91px;
 }
 .react-tel-input .cy {
-  background-position: 0 -33px;
+  background-position: -246px -91px;
 }
 .react-tel-input .cz {
-  background-position: -16px -33px;
+  background-position: -284px -91px;
 }
 .react-tel-input .de {
-  background-position: -32px -33px;
+  background-position: -522px -120px;
 }
 .react-tel-input .dj {
-  background-position: -48px -33px;
+  background-position: -360px -91px;
 }
 .react-tel-input .dk {
-  background-position: -64px -33px;
+  background-position: -321px -91px;
 }
 .react-tel-input .dm {
-  background-position: -80px -33px;
+  background-position: -406px -91px;
 }
 .react-tel-input .do {
-  background-position: -96px -33px;
+  background-position: -446px -91px;
 }
 .react-tel-input .dz {
   background-position: -86px 0;
 }
 .react-tel-input .ec {
-  background-position: -128px -33px;
+  background-position: -486px -91px;
 }
 .react-tel-input .ee {
-  background-position: -144px -33px;
+  background-position: -124px -120px;
 }
 .react-tel-input .eg {
-  background-position: -160px -33px;
+  background-position: -526px -91px;
 }
 .react-tel-input .er {
-  background-position: -176px -33px;
+  background-position: -81px -120px;
 }
 .react-tel-input .es {
   background-position: -192px -33px;
 }
 .react-tel-input .et {
-  background-position: -208px -33px;
+  background-position: -166px -120px;
 }
 .react-tel-input .fi {
-  background-position: -224px -33px;
+  background-position: -244px -120px;
 }
 .react-tel-input .fj {
-  background-position: -240px -33px;
+  background-position: -202px -120px;
 }
 .react-tel-input .fk {
-  background-position: 0 -44px;
+  background-position: -81px -120px;
 }
 .react-tel-input .fm {
   background-position: -16px -44px;
@@ -416,97 +419,97 @@
 .react-tel-input .fr,
 .react-tel-input .bl,
 .react-tel-input .mf {
-  background-position: -48px -44px;
+  background-position: -286px -120px;
 }
 .react-tel-input .ga {
-  background-position: -64px -44px;
+  background-position: -410px -120px;
 }
 .react-tel-input .gb {
-  background-position: -80px -44px;
+  background-position: -80px -150px;
 }
 .react-tel-input .gd {
-  background-position: -96px -44px;
+  background-position: -86px -150px;
 }
 .react-tel-input .ge {
-  background-position: -112px -44px;
+  background-position: -486px -120px;
 }
 .react-tel-input .gf {
-  background-position: -128px -44px;
+  background-position: -326px -120px;
 }
 .react-tel-input .gh {
-  background-position: -144px -44px;
+  background-position: -6px -150px;
 }
 .react-tel-input .gi {
-  background-position: -160px -44px;
+  background-position: -160px -150px;
 }
 .react-tel-input .gl {
-  background-position: -176px -44px;
+  background-position: -176px -150px;
 }
 .react-tel-input .gm {
-  background-position: -192px -44px;
+  background-position: -443px -120px;
 }
 .react-tel-input .gn {
-  background-position: -208px -44px;
+  background-position: -246px -150px;
 }
 .react-tel-input .gp {
-  background-position: -224px -44px;
+  background-position: -126px -150px;
 }
 .react-tel-input .gq {
-  background-position: -240px -44px;
+  background-position: -45px -120px;
 }
 .react-tel-input .gr {
-  background-position: 0 -55px;
+  background-position: -41px -150px;
 }
 .react-tel-input .gt {
-  background-position: -16px -55px;
+  background-position: -205px -150px;
 }
 .react-tel-input .gu {
-  background-position: -32px -55px;
+  background-position: -167px -150px;
 }
 .react-tel-input .gw {
-  background-position: -48px -55px;
+  background-position: -282px -150px;
 }
 .react-tel-input .gy {
-  background-position: -64px -55px;
+  background-position: -322px -150px;
 }
 .react-tel-input .hk {
-  background-position: -80px -55px;
+  background-position: -446px -150px;
 }
 .react-tel-input .hn {
-  background-position: -96px -55px;
+  background-position: -406px -150px;
 }
 .react-tel-input .hr {
-  background-position: -112px -55px;
+  background-position: -126px -91px;
 }
 .react-tel-input .ht {
-  background-position: -128px -55px;
+  background-position: -366px -150px;
 }
 .react-tel-input .hu {
-  background-position: -144px -55px;
+  background-position: -484px -150px;
 }
 .react-tel-input .id {
-  background-position: -160px -55px;
+  background-position: -42px -180px;
 }
 .react-tel-input .ie {
-  background-position: -176px -55px;
+  background-position: -126px -180px;
 }
 .react-tel-input .il {
-  background-position: -192px -55px;
+  background-position: -6px -180px;
 }
 .react-tel-input .in {
-  background-position: -208px -55px;
+  background-position: -6px -180px;
 }
 .react-tel-input .io {
-  background-position: -224px -55px;
+  background-position: -442px -31px;
 }
 .react-tel-input .iq {
-  background-position: -240px -55px;
+  background-position: -126px -180px;
 }
 .react-tel-input .ir {
-  background-position: 0 -66px;
+  background-position: -85px -180px;
 }
 .react-tel-input .is {
-  background-position: -16px -66px;
+  background-position: -524px -150px;
 }
 .react-tel-input .it {
   background-position: -32px -66px;
@@ -515,31 +518,31 @@
   background-position: -144px -154px;
 }
 .react-tel-input .jm {
-  background-position: -48px -66px;
+  background-position: -6px -180px;
 }
 .react-tel-input .jo {
-  background-position: -64px -66px;
+  background-position: -6px -180px;
 }
 .react-tel-input .jp {
-  background-position: -80px -66px;
+  background-position: -6px -180px;
 }
 .react-tel-input .ke {
-  background-position: -96px -66px;
+  background-position: -6px -180px;
 }
 .react-tel-input .kg {
-  background-position: -112px -66px;
+  background-position: -6px -180px;
 }
 .react-tel-input .kh {
-  background-position: -128px -66px;
+  background-position: -86px -61px;
 }
 .react-tel-input .ki {
-  background-position: -144px -66px;
+  background-position: -6px -180px;
 }
 .react-tel-input .xk {
   background-position: -128px -154px;
 }
 .react-tel-input .km {
-  background-position: -160px -66px;
+  background-position: -481px -61px;
 }
 .react-tel-input .kn {
   background-position: -176px -66px;
@@ -557,7 +560,7 @@
   background-position: -240px -66px;
 }
 .react-tel-input .kz {
-  background-position: 0 -77px;
+  background-position: -6px -180px;
 }
 .react-tel-input .la {
   background-position: -16px -77px;
@@ -677,9 +680,11 @@
 .react-tel-input .ni {
   background-position: -112px -99px;
 }
-.react-tel-input .nl,
-.react-tel-input .bq {
+.react-tel-input .nl {
   background-position: -128px -99px;
+}
+.react-tel-input .bq {
+  background-position: -241px -61px;
 }
 .react-tel-input .no {
   background-position: -144px -99px;
@@ -706,7 +711,7 @@
   background-position: 0 -110px;
 }
 .react-tel-input .pf {
-  background-position: -16px -110px;
+  background-position: -366px -120px;
 }
 .react-tel-input .pg {
   background-position: -32px -110px;
@@ -805,7 +810,7 @@
   background-position: -16px -132px;
 }
 .react-tel-input .sv {
-  background-position: -32px -132px;
+  background-position: -6px -120px;
 }
 .react-tel-input .sx {
   background-position: -48px -132px;
@@ -820,7 +825,7 @@
   background-position: -96px -132px;
 }
 .react-tel-input .td {
-  background-position: -112px -132px;
+  background-position: -326px -61px;
 }
 .react-tel-input .tg {
   background-position: -128px -132px;
