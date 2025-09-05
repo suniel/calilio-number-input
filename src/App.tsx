@@ -14,9 +14,9 @@ function App() {
         borderRadius: "24px",
       }}
     >
-      <PhoneInput country={"bd"} />
+      <PhoneInput country={"mn"} />
       <div className="line-sep" style={{ borderTop: "1px solid #f1eeee" }}>
-        <PhoneInput country={"bd"} />
+        <PhoneInput country={"mn"} />
       </div>
     </div>
   );
